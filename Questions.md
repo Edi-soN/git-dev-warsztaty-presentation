@@ -9,7 +9,7 @@
 9.
 10.
 11.
-12.
+12. W jakiej sytuacji warto korzystac z git patch?
 13.
 14.
 15.

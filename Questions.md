@@ -1,14 +1,14 @@
 1.
-2.
+2. Git :)
 3.
 4.
 5.
-6.
+6. Test 
 7.
 8.
 9.
 10.
-11.
+11.dobre szkolenie
 12. W jakiej sytuacji warto korzystac z git patch?
 13.
 14.
